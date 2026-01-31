@@ -1,5 +1,3 @@
-# Prosty "assembler" + emulator 4-bitowego CPU
-
 class CPU4Bit:
     def __init__(self):
         self.A = 0
